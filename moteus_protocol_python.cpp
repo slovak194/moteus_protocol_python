@@ -1,7 +1,7 @@
 #include <pybind11/pybind11.h>
 #include <pybind11/numpy.h>
 
-#include "./pi3hat/mjbots/moteus/moteus_protocol.h"
+#include "./pi3hat/lib/cpp/mjbots/moteus/moteus_protocol.h"
 
 namespace py = pybind11;
 
